@@ -1,7 +1,3 @@
----
-typora-root-url: _doc\image
----
-
 ## 程序员规范 | 个人PC工作目录模板
 
 ### 概述
