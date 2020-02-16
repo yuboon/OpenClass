@@ -2,8 +2,6 @@
 
 **一人一机一板凳，一招一式一菩提**
 
-------
-
 > 作者：风象南（yuboon）
 >
 > 本公开课内容均为风象南原创，版权归作者所有
@@ -56,7 +54,7 @@
 
 **最新发布**
 
-  <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [突破CRUD|简单优雅的代码生成工具诞生记]() | [[ 视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
+  <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [突破CRUD|简单优雅的代码生成工具诞生记]() | [[视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
 
 
 
@@ -66,12 +64,12 @@
 
 - **突破CRUD**
 
-  - [突破CRUD|简单优雅的代码生成工具诞生记]() | [[ 视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
+  - [突破CRUD|简单优雅的代码生成工具诞生记]() | [[视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
 
 
 
 - **程序员规范**
-  - [个人PC工程目录模板](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483844&idx=1&sn=aaa5769a4d7eb9083457c67f60e7c75b&scene=19#wechat_redirect) | [[ 视频]](https://www.bilibili.com/video/av83319098/)  [[源代码]](2020/程序员规范_个人PC工作目录模板/example)
+  - [个人PC工程目录模板](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483844&idx=1&sn=aaa5769a4d7eb9083457c67f60e7c75b&scene=19#wechat_redirect) | [[视频]](https://www.bilibili.com/video/av83319098/)  [[源代码]](2020/程序员规范_个人PC工作目录模板/example)
   - [Coding，命名是个技术活](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483813&idx=1&sn=d6acac0ab6760d94a5d7e9749da7dacc&chksm=fd1c326bca6bbb7df7f2a8a7ec34cc00bedecb1105c9d08a80b310f7370a9a257dfa97c4fbec&token=1436615944&lang=zh_CN#rd)
   - [Java中的工具类究竟如何命名？](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483808&idx=1&sn=6b26c04137d9dc0959c1f5d2ff197f62&chksm=fd1c326eca6bbb78ee115135dcbbd2460fb09ce17e3bac7e69ba6a3f7f639a3f2b6ec88a0981&token=1436615944&lang=zh_CN#rd)
 
@@ -95,8 +93,7 @@
 
 
 - **面试不尴尬**
-
-  - [踏入职场后，差距来自哪里](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483785&idx=1&sn=ca039459331ae16ec77360b435869d80&scene=19&token=1436615944&lang=zh_CN#wechat_redirect)
+- [踏入职场后，差距来自哪里](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483785&idx=1&sn=ca039459331ae16ec77360b435869d80&scene=19&token=1436615944&lang=zh_CN#wechat_redirect)
   - [金三银四，如何征服面试官，拿到Offer](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483767&idx=1&sn=a0e3091226bbdab039353f454519059f&scene=19#wechat_redirect)
 
 
@@ -119,17 +116,15 @@
 
 ### 技术交流
 
-
-
-**技术交流群**
+- **技术交流群**
 
 669030183
 
-**邮箱**
+- **邮箱**
 
  yuboon@126.com
 
-**公众号**
+- **公众号**
 
 <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gau0pp2fgkj309k09kaa0.jpg" width = "200" height = "200"
 align=center>
