@@ -126,6 +126,6 @@
 
 - **公众号**
 
-  <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gau0pp2fgkj309k09kaa0.jpg" width = "200" height = "200"
+ <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gau0pp2fgkj309k09kaa0.jpg" width = "200" height = "200"
   align=center>
 
