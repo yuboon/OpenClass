@@ -24,25 +24,25 @@
 
 <figure>
     <a href="https://juejin.im/user/5c472a156fb9a049af6d97e8" target="_blank">
-		<img src="doc\image\juejin.png" title="掘金" alt="掘金" align="left" width ="40" height="30" />
+		<img src="http://tva1.sinaimg.cn/mw690/006dLZAxly1gby86zj2iaj306w05k0sm.jpg" title="掘金" alt="掘金" align="left" width ="40" height="30" />
   	</a>
     <a href="https://blog.csdn.net/q464042566" target="_blank">
-		<img src="doc\image\csdn.png" title="CSDN" alt="CSDN" align="left" width ="35" height="30"  />
+		<img src="http://tva1.sinaimg.cn/mw690/006dLZAxly1gby86zl1afj305k05ka9z.jpg" title="CSDN" alt="CSDN" align="left" width ="35" height="30"  />
   	</a>
     <a href="https://www.cnblogs.com/yuboon/" target="_blank">
-        <img src="doc\image\cnblogs.png" title="博客园" alt="博客园" align="left" width ="35" height="30"  />
+        <img src="http://tva1.sinaimg.cn/mw690/006dLZAxly1gby86zm5jzj305f05fab8.jpg" title="博客园" alt="博客园" align="left" width ="35" height="30"  />
     </a>
     <a href="https://my.oschina.net/cccyb" target="_blank">
-        <img src="doc\image\oschina.png" title="开源中国" alt="开源中国" align="left" width ="40" height="30"  />
+        <img src="http://tva1.sinaimg.cn/mw690/006dLZAxly1gby86zl1uvj305k05kmx7.jpg" title="开源中国" alt="开源中国" align="left" width ="40" height="30"  />
     </a>
     <a href="https://www.zhihu.com/people/feng-xiang-nan-17/activities" target="_blank">
-        <img src="doc\image\zhihu.png" title="知乎" alt="知乎" align="left" width ="40" height="30"  />
+        <img src="http://tva1.sinaimg.cn/mw690/006dLZAxly1gby86zkl7sj305m05kq2u.jpg" title="知乎" alt="知乎" align="left" width ="40" height="30"  />
     </a>
     <a href="https://www.jianshu.com/u/a1c07582f7e6" target="_blank">
-        <img src="doc\image\jianshu.png" title="简书" alt="简书" align="left" width ="40" height="30"  />
+        <img src="http://tva1.sinaimg.cn/mw690/006dLZAxly1gby86zmrvzj305k05k3ye.jpg" title="简书" alt="简书" align="left" width ="40" height="30"  />
     </a>
     <a href="https://www.imooc.com/u/7591163/articles" target="_blank">
-        <img src="doc\image\muke.png" title="慕课手记" alt="慕课手记" align="left" width ="40" height="30"  />
+        <img src="http://tva1.sinaimg.cn/mw690/006dLZAxly1gby86zl7laj302g02gt8j.jpg" title="慕课手记" alt="慕课手记" align="left" width ="40" height="30"  />
     </a>
 </figure>
 
@@ -54,9 +54,9 @@
 
 </br>
 
-**<font color=#8B008B>最新发布</font>**
+**最新发布**
 
-  <img src="doc/image/new.png" width ="20" height="20" /> [突破CRUD|简单优雅的代码生成工具诞生记]() | [[ 视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
+  <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [突破CRUD|简单优雅的代码生成工具诞生记]() | [[ 视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
 
 
 
@@ -117,7 +117,7 @@
 
 ------
 
-### 联系作者
+### 技术交流
 
 
 
@@ -131,4 +131,6 @@
 
 **公众号**
 
-![qrcode.jpg](http://tva1.sinaimg.cn/large/006dLZAxly1gau0pp2fgkj309k09kaa0.jpg)
+<img src="http://tva1.sinaimg.cn/large/006dLZAxly1gau0pp2fgkj309k09kaa0.jpg" width = "200" height = "200"
+align=center>
+
