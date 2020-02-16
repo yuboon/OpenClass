@@ -56,6 +56,8 @@
 
   <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [码技拓展 | 如何利用Java异常快速分析源码](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483824&idx=1&sn=b50baec7b6edd88f5baf9c4e1a4e56de&chksm=fd1c327eca6bbb686d67ba72e79cada07e42d2f93fec1c3b44db3de19adce36594b06e9d23c1&token=1436615944&lang=zh_CN#rd) | [[视频]](https://www.bilibili.com/video/av84353485/) | [[源代码]](2020/码技拓展_利用异常分析源码/source)
 
+  <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [程序员规范 | 个人PC工程目录模板](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483844&idx=1&sn=aaa5769a4d7eb9083457c67f60e7c75b&scene=19#wechat_redirect) | [[视频]](https://www.bilibili.com/video/av83319098/)  [[源代码]](2020/程序员规范_个人PC工作目录模板/example)
+
   <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [突破CRUD | 简单优雅的代码生成工具诞生记](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&tempkey=MTA0OF9pc0Y0eXhvRGc3bmQ5L3BvVTlGTjB6d1VGdDZFSlUtbW9DLXpzMzZXc0pLYWZ2cllNTFZiajdGWmhKLWVJaXFlUW13QUJNOTdCSjdldmJuRG5UYWVmLTh6SlFaU0VtaGU0bTZiM2pVMHpac3U1c2pUb3dyQ044TEZHWm1BbWNUNWRlOXg1OUROR0drX0owejVXaFBudmpFdHdUdFlXOXIwX1dNbFBBfn4%3D&chksm=7d1c32704a6bbb662ec165c2f2eec714ae0cf87e4e58f0a9730e4e353aacfad09828db7350e4#rd) | [[视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
 
 
