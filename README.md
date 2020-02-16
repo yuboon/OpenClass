@@ -118,14 +118,14 @@
 
 - **技术交流群**
 
-669030183
+  669030183
 
 - **邮箱**
 
- yuboon@126.com
+   yuboon@126.com
 
 - **公众号**
 
-<img src="http://tva1.sinaimg.cn/large/006dLZAxly1gau0pp2fgkj309k09kaa0.jpg" width = "200" height = "200"
-align=center>
+  <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gau0pp2fgkj309k09kaa0.jpg" width = "200" height = "200"
+  align=center>
 
