@@ -81,7 +81,7 @@
 
 - **码技拓展**
   - [如何利用Java异常快速分析源码](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483824&idx=1&sn=b50baec7b6edd88f5baf9c4e1a4e56de&chksm=fd1c327eca6bbb686d67ba72e79cada07e42d2f93fec1c3b44db3de19adce36594b06e9d23c1&token=1436615944&lang=zh_CN#rd) | [[视频]](https://www.bilibili.com/video/av84353485/) | [[源代码]](2020/码技拓展_利用异常分析源码/source)
-  - [SpringBoot 配置文件与依赖库分离打包配置](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483796&idx=1&sn=69bfe4e65f96aece33570914eb83d209&chksm=fd1c325aca6bbb4c2b0ce84b278c3bf078934f9005fcce69cf24262d1065aa2e8fb751a76890&token=1436615944&lang=zh_CN#rd)
+  - [SpringBoot 配置文件与依赖库分离打包配置](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483796&idx=1&sn=69bfe4e65f96aece33570914eb83d209&chksm=fd1c325aca6bbb4c2b0ce84b278c3bf078934f9005fcce69cf24262d1065aa2e8fb751a76890&token=1436615944&lang=zh_CN#rd) | [[源代码]](2020/码技拓展_springboot配置依赖分离打包/source)
   - [从官方文档去学习之FreeMarker](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483703&idx=1&sn=86467a2ab06cab0303643691e3aeb4af&chksm=fd1c32f9ca6bbbef4dce1af2d0d5a9cd94fd0f51f6149c1f19f152b106404ac4f57d523f6a36&token=1436615944&lang=zh_CN#rd)
   - [从现在开始，试着学会用 文档去学习一个技术框架](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483696&idx=1&sn=c57586edd5db89516ede28cabcca1fb9&chksm=fd1c32feca6bbbe8bfc9c788c33d545e57fd31d5bc7172bf63d4ba1cf01af5e85a3ba6693180&token=1436615944&lang=zh_CN#rd)
 
