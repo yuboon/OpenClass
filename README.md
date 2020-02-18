@@ -69,8 +69,8 @@
 
 
 - **突破CRUD**
-
-  - [简单优雅的代码生成工具诞生记](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&tempkey=MTA0OF9pc0Y0eXhvRGc3bmQ5L3BvVTlGTjB6d1VGdDZFSlUtbW9DLXpzMzZXc0pLYWZ2cllNTFZiajdGWmhKLWVJaXFlUW13QUJNOTdCSjdldmJuRG5UYWVmLTh6SlFaU0VtaGU0bTZiM2pVMHpac3U1c2pUb3dyQ044TEZHWm1BbWNUNWRlOXg1OUROR0drX0owejVXaFBudmpFdHdUdFlXOXIwX1dNbFBBfn4%3D&chksm=7d1c32704a6bbb662ec165c2f2eec714ae0cf87e4e58f0a9730e4e353aacfad09828db7350e4#rd) | [[视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
+- [简单优雅的代码生成工具诞生记](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&tempkey=MTA0OF9pc0Y0eXhvRGc3bmQ5L3BvVTlGTjB6d1VGdDZFSlUtbW9DLXpzMzZXc0pLYWZ2cllNTFZiajdGWmhKLWVJaXFlUW13QUJNOTdCSjdldmJuRG5UYWVmLTh6SlFaU0VtaGU0bTZiM2pVMHpac3U1c2pUb3dyQ044TEZHWm1BbWNUNWRlOXg1OUROR0drX0owejVXaFBudmpFdHdUdFlXOXIwX1dNbFBBfn4%3D&chksm=7d1c32704a6bbb662ec165c2f2eec714ae0cf87e4e58f0a9730e4e353aacfad09828db7350e4#rd) | [[视频]](https://www.bilibili.com/video/av82518513/) | [[源代码]](2020/突破CRUD_简单优雅的代码生成工具诞生记/source)
+  - [万能树工具类封装]() | 录制中 | [[源代码]](2020/突破CRUD_万能树构造工具类封装/source)
 
 
 
