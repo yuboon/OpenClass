@@ -54,6 +54,8 @@
 
 **最新发布**
 
+  <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [突破CRUD | 万能树工具类封装]() | 录制中 | [[源代码]](2020/突破CRUD_万能树构造工具类封装/source)
+
   <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [码技拓展 | 如何利用Java异常快速分析源码](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483824&idx=1&sn=b50baec7b6edd88f5baf9c4e1a4e56de&chksm=fd1c327eca6bbb686d67ba72e79cada07e42d2f93fec1c3b44db3de19adce36594b06e9d23c1&token=1436615944&lang=zh_CN#rd) | [[视频]](https://www.bilibili.com/video/av84353485/) | [[源代码]](2020/码技拓展_利用异常分析源码/source)
 
   <img src="http://tva1.sinaimg.cn/large/006dLZAxly1gby83amf3hj302o02omwy.jpg" width ="20" height="20" /> [程序员规范 | 个人PC工程目录模板](https://mp.weixin.qq.com/s?__biz=MzU3NTgwOTE4NQ==&mid=2247483844&idx=1&sn=aaa5769a4d7eb9083457c67f60e7c75b&scene=19#wechat_redirect) | [[视频]](https://www.bilibili.com/video/av83319098/)  [[源代码]](2020/程序员规范_个人PC工作目录模板/example)
