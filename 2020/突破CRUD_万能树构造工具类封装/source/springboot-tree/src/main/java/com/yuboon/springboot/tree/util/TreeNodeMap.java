@@ -20,15 +20,6 @@ public class TreeNodeMap extends HashMap implements Serializable {
         this.treeNodeConfig = treeNodeConfig;
     }
 
-/*
-    // 树节点属性常量
-    static final String TREE_ID = "id";
-    static final String TREE_NAME = "name";
-    static final String TREE_CODE = "code";
-    static final String TREE_CHILDREN = "children";
-    static final String TREE_PARENT_ID = "parentId";
-*/
-
     public <T> T getId() {
         return (T)super.get(treeNodeConfig.getIdKey());
     }

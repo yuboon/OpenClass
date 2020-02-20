@@ -24,21 +24,7 @@ public class TreeUtil_4_0 {
      * 树构建
      */
     public static <T> List<TreeNodeMap> build(List<T> list,Object parentId,Convert<T,TreeNodeMap> convert){
-        List<TreeNodeMap> treeNodes = CollectionUtil.newArrayList();
-        for(T obj : list){
-            TreeNodeMap treeNode = new TreeNodeMap();
-            convert.convert(obj,treeNode);
-            treeNodes.add(treeNode);
-        }
-
-        List<TreeNodeMap> finalTreeNodes = CollectionUtil.newArrayList();
-        for(TreeNodeMap treeNode : treeNodes){
-            if(parentId.equals(treeNode.getParentId())){
-                finalTreeNodes.add(treeNode);
-                innerBuild(treeNodes,treeNode);
-            }
-        }
-        return finalTreeNodes;
+        return build(list,parentId,TreeNodeConfig.getDefaultConfig(),convert);
     }
 
     /**
