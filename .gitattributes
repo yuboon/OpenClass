@@ -1,0 +1,3 @@
+*.html linguist-language=java
+*.vue linguist-language=java
+*.js linguist-language=java
